@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Ayobami</h1>
-<h3 align="center">A software developer with a keen interest in cloud computing and DevOps technology.</h3>
+<h3 align="center">A software developer with a keen interest in Cloud Computing and DevOps technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryayobami&label=Profile%20views&color=0e75b6&style=flat" alt="maryayobami" /> </p>
 
@@ -11,9 +11,9 @@
 
 - 👯 I’m looking to collaborate on **Cloud/DevOps related projects**
 
-- 📝 Alongside coding, I have a talent for breaking down complex technical terms through technical writing. I regularly write articles on [https://maryayobami.hashnode.dev/](https://maryayobami.hashnode.dev/)
+- 📝 Alongside coding, I have a talent for breaking down complex technical terms through technical writing. I write articles on [https://maryayobami.hashnode.dev/](https://maryayobami.hashnode.dev/)
 
-- 📫 How to reach me **ogunmolamaryayobami@gmail.com**
+- 📫 Reach me at **ogunmolamaryayobami@gmail.com**
 
 - ⚡ Fun fact **0**
 
