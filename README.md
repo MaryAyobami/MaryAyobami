@@ -13,7 +13,6 @@
 
 - 📫 Reach me at **ogunmolamaryayobami@gmail.com**
 
-- ⚡ Fun fact **0**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
