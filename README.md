@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary Ayobami</h1>
-<h3 align="center">A software developer with a keen interest in Cloud Computing and DevOps technology.</h3>
+<h3 align="center">A software developer with a keen interest in Cloud Computing and Cloud Security.</h3>
 
 
 
