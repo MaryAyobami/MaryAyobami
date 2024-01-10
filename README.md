@@ -5,9 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/blessedwithjoy_" target="blank"><img src="https://img.shields.io/twitter/follow/blessedwithjoy_?logo=twitter&style=for-the-badge" alt="blessedwithjoy_" /></a> </p>
 
-- 🌱 I’m currently learning **Cybersecurity**
-
-- 👯 I’m looking to collaborate on **Cloud related projects**
 
 - 📝 Alongside coding, I have a talent for breaking down complex technical terms through technical writing. I write articles on [https://maryayobami.hashnode.dev/](https://maryayobami.hashnode.dev/)
 
