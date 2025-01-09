@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mary A. Ogunmola</h1>
-<h3 align="center">A software developer with a keen interest in distributed systems, cloud security, and infrastructure resilience.</h3>
+<h3 align="center">I have a keen interest in distributed systems, cloud security, and infrastructure resilience.</h3>
 
 
 - 📝 Alongside coding, I have a talent for breaking down complex technical terms through technical writing. 
