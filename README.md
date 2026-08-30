@@ -2,7 +2,7 @@
 
 <!--
 <h3 align="center">
-Computer Science Ph.D. Student | Computer Systems Researcher
+Computer Systems Researcher
 </h3>
 -->
 
@@ -33,8 +33,6 @@ My current projects involve:
 - 🔐 Confidential computing and remote attestation
 - 📊 Performance variability and hardware sensitivity
 
-These projects currently involve Intel SGX and TDX, Gramine, Keylime, Linux IMA, Open5GS, and CloudLab.
-
 ## Languages and Tools
 
 **Programming and Development**
@@ -56,16 +54,19 @@ These projects currently involve Intel SGX and TDX, Gramine, Keylime, Linux IMA,
   <img src="https://img.shields.io/badge/QEMU%2FKVM-FF6600?style=flat&logo=qemu&logoColor=white" alt="QEMU/KVM" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Kata_Containers-000000?style=flat" alt="Kata Containers" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/CloudLab-005F9E?style=flat" alt="CloudLab" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white" alt="Nix" />
 </p>
 
-**Performance, Tracing and Debugging**
 
-<p>
+<!-- <p>
   <img src="https://img.shields.io/badge/perf-333333?style=flat&logo=linux&logoColor=white" alt="perf" />
   <img src="https://img.shields.io/badge/bpftrace-F15A24?style=flat&logo=linux&logoColor=white" alt="bpftrace" />
   <img src="https://img.shields.io/badge/GDB-A42E2B?style=flat&logo=gnu&logoColor=white" alt="GDB" />
-</p>
+</p> -->
 
 **Confidential Computing**
 
@@ -75,16 +76,6 @@ These projects currently involve Intel SGX and TDX, Gramine, Keylime, Linux IMA,
   <img src="https://img.shields.io/badge/Gramine-6A5ACD?style=flat" alt="Gramine" />
   <img src="https://img.shields.io/badge/Keylime-4C9A2A?style=flat" alt="Keylime" />
   <img src="https://img.shields.io/badge/Linux_IMA-8B4513?style=flat&logo=linux&logoColor=white" alt="Linux IMA" />
-</p>
-
-**Cloud and Experimentation**
-
-<p>
-  <img src="https://img.shields.io/badge/CloudLab-005F9E?style=flat" alt="CloudLab" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Nix-5277C3?style=flat&logo=nixos&logoColor=white" alt="Nix" />
 </p>
 
 **Networking and Mobile-Core Systems**
