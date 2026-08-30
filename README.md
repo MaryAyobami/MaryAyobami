@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mary A. Ogunmola</h1>
-<h3 align="center">I have a keen interest in systems, cloud computing and security.</h3>
-
-
-- 📝 Alongside coding, I have a talent for breaking down complex technical terms through technical writing. 
+<h1 align="center">Hello there 👋, My name is Mary</h1>
+<h3 align="center">I have a keen interest in security, verifiable trust, and performance.</h3>
+ 
+- 📝 My current research explores how cloud workloads can maintain security and performance guarantees through confidential computing, as well as how systems experiments  can produce more reliable, representative, and reproducible results.
 
 - 📫 Reach me at **ogunmolamaryayobami@gmail.com**
 
