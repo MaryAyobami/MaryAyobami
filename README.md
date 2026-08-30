@@ -92,5 +92,4 @@ These projects currently involve Intel SGX and TDX, Gramine, Keylime, Linux IMA,
 <p>
   <img src="https://img.shields.io/badge/Open5GS-009688?style=flat" alt="Open5GS" />
   <img src="https://img.shields.io/badge/UERANSIM-6C63FF?style=flat" alt="UERANSIM" />
-  <img src="https://img.shields.io/badge/tcpdump-1679A7?style=flat&logo=wireshark&logoColor=white" alt="tcpdump" />
 </p>
